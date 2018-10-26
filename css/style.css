@@ -275,7 +275,7 @@ border-bottom: none;
 }
 
 #menu li.dropdown {
-    width: 100px;
+    width: 222px;
     display: flex;
     flex-direction: column;
 }
